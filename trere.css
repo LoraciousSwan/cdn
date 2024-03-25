@@ -1,8 +1,8 @@
 :root {
-    --darker: #121217;
-    --dark: #17171d;
-    --darkless: #252429;
-    --black: #1f2d3d;
+    --darker: hsl(240, 80%, 10%);
+    --dark: hsl(240, 69%, 15%);
+    --darkless: #1f0f5f;
+    --black: #174375;
     --steel: #273444;
     --slate: #3c4858;
     --muted: #8492a6;
